@@ -1,4 +1,4 @@
-# `Aliucord Plugin Repo Template`
+# `Hopefully will have stuff`
 
 Template for an [Aliucord](https://github.com/Aliucord) plugin repo
 
@@ -14,7 +14,3 @@ This template includes 2 example plugins demonstrating commands and patches whic
 3. Build or deploy your first plugin using:
    - Windows: `.\gradlew.bat MyFirstCommand:make` or `.\gradlew.bat MyFirstCommand:deployWithAdb`
    - Linux & Mac: `./gradlew MyFirstCommand:make` or `./gradlew MyFirstCommand:deployWithAdb`
-
-## License
-
-Everything in this repo is released into the public domain. You may use it however you want with no conditions whatsoever
